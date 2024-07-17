@@ -1,0 +1,42 @@
+html {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+#header,
+footer {
+  background-color: #1f2937;
+}
+
+#header-logo {
+  font-size: 24px;
+  color: #f9faf8;
+}
+
+#main-text {
+  color: #f9faf8;
+  font-weight: extra-bold;
+  font-size: 48px;
+}
+
+#secondary-text,
+.link-text {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+#info-header {
+  font-size: 36px;
+  font-weight: extra-bold;
+  color: #1f2937;
+}
+
+#quote {
+  background-color: #e5e7eb;
+  color: #1f2937;
+  font-size: 36px;
+  font-style: light italic;
+}
+
+.button,
+#call-to-action {
+  background-color: #3882f6;
+}
